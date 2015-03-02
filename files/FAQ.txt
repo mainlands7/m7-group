@@ -1,6 +1,6 @@
 MAINLANDS 7 DISCUSSION GROUP FREQUENTLY ASKED QUESTIONS
 
-Last Updated: 2008-02-16
+Last Updated: 2015-03-01
 
 This file contains a list of frequently asked questions related to the Mainlands 7 discussion group.  This file is updated when necessary and mailed to all group members on a regular basis.
 
@@ -28,7 +28,7 @@ A: In general, there are no restricted topics.  However, we ask that any topic y
     4. Asking for a contractor/real estate agent/tutor/etc. recommendation.
     5. Advertising an upcoming garage sale in the neighborhood.
 
-   Ultimately, use your best judgement when determining the relevancy of a new topic you bring up for discussion.
+   Ultimately, use your best judgment when determining the relevancy of a new topic you bring up for discussion.
 
 ----------
 
@@ -45,6 +45,6 @@ A: Please observe the following rules of etiquette when posting a message:
 
 Q: Can I include attachments when I post a message?
 
-A: Yes.  Currently, attachments are enabled for all group messages.  However, we ask that you limit the total size of your message to 1 MB or less in deference to those members who may be using a dial-up connection.  If you have a large file you would like to share with the group, you may submit it to one of the group moderators for placement in the Files area of the group.
+A: Yes.  Currently, attachments are enabled for all group messages.  However, we ask that you limit the total size of your message to 1 MiB or less in deference to those members who may be using a slower connection.  If you have a large file you would like to share with the group, you may submit it to one of the group moderators for placement in the Files area of the group.
 
 ----------
